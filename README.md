@@ -67,3 +67,4 @@ Follow the QR code in the terminal or browser to open the project.
 ---
 
 ## Youtube
+https://www.youtube.com/watch?v=96BzSUYvh_o
